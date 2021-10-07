@@ -1,6 +1,6 @@
 onst  CONFIG  =  {
     titleWeb : "được rồi nè" ,
-    introTitle : 'Bảo bịp' ,
+    introTitle : 'Bảo bịpp' ,
     introDesc : thấy giỏi chưaa` ,
     btnIntro : 'Ghơ á' ,
     title : ' em quá hiền đúng khumm🥺 ' ,
