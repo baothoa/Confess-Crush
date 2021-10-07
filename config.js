@@ -12,6 +12,6 @@ onst  CONFIG  =  {
     reply : 'hong anh sợ em lắmm' ,
     mess : 'em biết mà 🥰. Yêu nhiều 😘😘 ' ,
     messDesc : 'ship cho ly trà đào nhaa🥺. " ,
-    btn Chấp nhận : 'Okiiiii lun <3' ,
-    messLink: 'https://fb.com/index.htm
+    btn Chấp nhận : 'Oki lun <3' ,
+    messLink: 'https://www.facebook.com/profile.php?id=100029525651698
     }
