@@ -7,11 +7,12 @@ onst  CONFIG  =  {
     desc :'Dám nói không🤨' ,
     btn Có : 'em hiền nhấtt' ,
     btnNo : 'Không' ,
-    question : 'Ngứa tay quá, quánh nhau hongg' ,
-    btnReply : 'Gửi cho Thoa ' ,
+    question: 'Ngứa tay quá, quánh nhau hongg',
+    btnReply: 'Gửi cho Thoa',
     reply : 'hong anh sợ em lắmm' ,
     mess : 'em biết mà 🥰. Yêu nhiều 😘😘 ' ,
     messDesc : 'ship cho ly trà đào nhaa🥺. " ,
     btn Chấp nhận : 'Okiiiii lun <3' ,
-    messLink : 'https://fb.com
+    messLink: 'https://fb.com/index.htm
+    
 }
