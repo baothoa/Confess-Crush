@@ -14,5 +14,4 @@ onst  CONFIG  =  {
     messDesc : 'ship cho ly trà đào nhaa🥺. " ,
     btn Chấp nhận : 'Okiiiii lun <3' ,
     messLink: 'https://fb.com/index.htm
-    
-}
+    }
